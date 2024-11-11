@@ -1,3 +1,3 @@
 if vim.fn.has("nvim-0.7.0") ~= 1 then
-   vim.api.nvim_err_writeln("new-plugin.nvim requires at least nvim-0.7.0.")
+	vim.api.nvim_err_writeln("new-plugin.nvim requires at least nvim-0.7.0.")
 end
